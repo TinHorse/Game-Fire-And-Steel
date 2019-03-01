@@ -1,0 +1,6 @@
+put strings into one ofTrueTypeFont
+
+
+
+maybe:
+display damage in red

@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\apps\myapps\tanks\src\ofapp.cpp(1016): warning C4551: function call missing argument list
+c:\program files (x86)\of_v0.10.0_vs2017_release\apps\myapps\tanks\src\ofapp.cpp(1074): warning C4551: function call missing argument list
+c:\program files (x86)\of_v0.10.0_vs2017_release\apps\myapps\tanks\src\ofapp.cpp(814): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  c:\program files (x86)\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1011): note: see declaration of 'ofRotate'
+c:\program files (x86)\of_v0.10.0_vs2017_release\apps\myapps\tanks\src\ofapp.cpp(1560): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\of_v0.10.0_vs2017_release\apps\myapps\tanks\src\ofapp.cpp(1565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Tanks.vcxproj -> C:\Program Files (x86)\of_v0.10.0_vs2017_release\apps\myApps\Tanks\bin\Tanks_debug.exe
+  
+  	                   2	C:\Program Files (x86)\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 6402560	C:\Program Files (x86)\of_v0.10.0_vs2017_release\apps\myApps\Tanks\bin\FreeImage.dll
+  
+  	                   1	C:\Program Files (x86)\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1503232	C:\Program Files (x86)\of_v0.10.0_vs2017_release\apps\myApps\Tanks\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\Program Files (x86)\of_v0.10.0_vs2017_release\apps\myApps\Tanks\bin\fmodexL64.dll
